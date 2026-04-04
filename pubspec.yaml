@@ -1,0 +1,19 @@
+name: st_about
+description: "Flutter 공통 설정 화면 패키지 - 문의(GAS)/약관/FAQ/공유/리뷰"
+version: 1.0.0
+homepage: https://github.com/sourcingtree/flutter_st_about
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.3.0
+  share_plus: ^10.0.0
+  in_app_review: ^2.0.9
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
